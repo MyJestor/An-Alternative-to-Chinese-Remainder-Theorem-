@@ -1,2 +1,2 @@
 # An-Alternative-to-Chinese-Remainder-Theorem-
-It’s an algorithm to find the smallest number when divided by some divisors leaving some remainders.
+It’s an algorithm to find the smallest number when divided by some divisors d_1,d_2,d_3.....leaving some remainders r_1,r_2,r_3...
